@@ -5159,7 +5159,7 @@ tbody.collapse.show {
   flex: 1;
 }
 
-. list-group {
+.list-group {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -5171,7 +5171,7 @@ tbody.collapse.show {
   margin-bottom: 0;
 }
 
-.list-group-iteyhm-action {
+.list-group-item-action {
   width: 100%;
   color: #495057;
   text-align: inherit;
