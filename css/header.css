@@ -1,3 +1,82 @@
+.d1-2{
+    width:20px;height:20px;
+}
+.d1{
+    background:#305dc3;
+    height:26px;
+    font-size:12px;
+    line-height:26px;
+    
+}
+.d1 ul{
+    float:right;
+    background-color:transparent !important;
+    margin-right:10%;
+    
+}
+/* 小喇叭之后的文字 */
+.d1>.d1-1{
+    margin-left:10%;
+    color:#fff;
+}
+/* 切换中英文导航 */
+.d1 ul>li>a{
+    color:#fff  ;
+}
+/* logo  div */
+.d2{
+    width:1200px;height:80px;
+    margin:0 auto;
+    margin-left:
+
+}
+/* ul 导航  样式 */
+.d2-1{
+    display:inline-block;
+}
+.d2-1>li{
+    display:inline-block;
+}
+.d2-1>li>a{
+    display:block;
+    width:120px;height:44px;
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
